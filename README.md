@@ -1,3 +1,4 @@
+This project is designed to showcase famous singers and bands and their albums. By using a get request on the endpoint /api/singer it will display all of the singers in the database and albums if you use it on endpoint /api/albums. This project will help showcase the albums of each of these singers and the year that it was released in.
 <h1>HTTP Methods and API endpoints:</h1>
 <h2>GET:</h2>                                                                                                                                                              <ul>
   <li>Get Singers -> /api/singer</li>
