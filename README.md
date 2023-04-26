@@ -9,7 +9,7 @@
 </ul>
 
   <h2>DELETE:</h2>                                                                                                                                                       <ul>
-    <li>Delete Singer by id -> /api/singer/id</li>
+    <li>Delete Singer by Id -> /api/singer/id</li>
     <li>Delete album by Id -> /api/albums/id</li>
   </ul>
 
