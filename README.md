@@ -1,5 +1,5 @@
-HTTP Methods and API endpoints:
-GET:                                                                                                                                                                     Get Singers -> /api/singer
+<h1>HTTP Methods and API endpoints:</h1>
+<h2>GET:</h2>                                                                                                                                                                     Get Singers -> /api/singer
 Get albums -> /api/albums
 
 POST:                                                                                                                                                                   Create singer -> /api/singer
