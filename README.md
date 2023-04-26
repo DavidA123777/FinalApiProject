@@ -1,5 +1,4 @@
-# FinalApiProject  
-HTTP Methods and API endpoints
+HTTP Methods and API endpoints:
 GET:
 Get Singers -> /api/singer
 Get albums -> /api/albums
@@ -15,17 +14,17 @@ Delete album by Id -> /api/albums/id
 Sample Request Body:
 Post:
 {
-    "AlbumId": 1,
-    "SingerId": 1,
-    "AlbumName": "Music of the Sun",
-    "ReleaseYear": 2005
+“AlbumId”: 1,
+“SingerId”: 1,
+“AlbumName”: “Music of the Sun”,
+“ReleaseYear”: 2005
 }
 
 Sample Response Body:
 201 created
 {
-    "albumId": 1,
-    "albumName": "Music of the Sun",
-    "releaseYear": 2005,
-    "singerId": 1
+“albumId”: 1,
+“albumName”: “Music of the Sun”,
+“releaseYear”: 2005,
+“singerId”: 1
 }
