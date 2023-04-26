@@ -2,7 +2,7 @@
 <h2>GET:</h2>                                                                                                                                                              <ul>
   <li>Get Singers -> /api/singer</li>
   <li>Get albums -> /api/albums</li>
-
+  </ul>
 <h2>POST:</h2>                                                                                                                                                         <ul>
   <li>Create singer -> /api/singer</li>
   <li>Create Album -> /api/albums</li>
