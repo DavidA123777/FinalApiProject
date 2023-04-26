@@ -1,15 +1,20 @@
 <h1>HTTP Methods and API endpoints:</h1>
-<h2>GET:</h2>                                                                                                                                                                     Get Singers -> /api/singer
-Get albums -> /api/albums
+<h2>GET:</h2>                                                                                                                                                              <ul>
+  <li>Get Singers -> /api/singer</li>
+  <li>Get albums -> /api/albums</li>
 
-POST:                                                                                                                                                                   Create singer -> /api/singer
-Create Album -> /api/albums
+<h2>POST:</h2>                                                                                                                                                            <ul>
+  <li>Create singer -> /api/singer</li>
+  <li>Create Album -> /api/albums</li>
+</ul>
 
-DELETE:                                                                                                                                                                 Delete Singer by id -> /api/singer/id
-Delete album by Id -> /api/albums/id
+  <h2>DELETE:</h2>                                                                                                                                                       <ul>
+  <li>Delete Singer by id -> /api/singer/id</li>
+  <li>Delete album by Id -> /api/albums/id</li>
+  </ul>
 
-Sample Request Body:
-Post:
+  <h1>Sample Request Body:</h1>
+  <h2>Post:</h2>
 {
 “AlbumId”: 1,
 “SingerId”: 1,
@@ -17,8 +22,8 @@ Post:
 “ReleaseYear”: 2005
 }
 
-Sample Response Body:
-201 created
+  <h1>Sample Response Body:</h1>
+  <h2>201 created</h2>
 {
 “albumId”: 1,
 “albumName”: “Music of the Sun”,
