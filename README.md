@@ -1,14 +1,11 @@
 HTTP Methods and API endpoints:
-GET:
-Get Singers -> /api/singer
+GET:                                                                                                                                                                     Get Singers -> /api/singer
 Get albums -> /api/albums
 
-POST:
-Create singer -> /api/singer
+POST:                                                                                                                                                                   Create singer -> /api/singer
 Create Album -> /api/albums
 
-DELETE:
-Delete Singer by id -> /api/singer/id
+DELETE:                                                                                                                                                                 Delete Singer by id -> /api/singer/id
 Delete album by Id -> /api/albums/id
 
 Sample Request Body:
